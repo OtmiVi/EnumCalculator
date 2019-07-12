@@ -1,0 +1,7 @@
+E:\c#\EnumCalculator\EnumCalculator\obj\Debug\EnumCalculator.csprojAssemblyReference.cache
+E:\c#\EnumCalculator\EnumCalculator\obj\Debug\EnumCalculator.csproj.CoreCompileInputs.cache
+E:\c#\EnumCalculator\EnumCalculator\bin\Debug\EnumCalculator.exe.config
+E:\c#\EnumCalculator\EnumCalculator\bin\Debug\EnumCalculator.exe
+E:\c#\EnumCalculator\EnumCalculator\bin\Debug\EnumCalculator.pdb
+E:\c#\EnumCalculator\EnumCalculator\obj\Debug\EnumCalculator.exe
+E:\c#\EnumCalculator\EnumCalculator\obj\Debug\EnumCalculator.pdb
